@@ -1,0 +1,33 @@
+#pageTitle{
+  text-align: center;
+}
+
+#Content {
+  margin:0 auto;
+  background: gray;
+  width: 30%;
+  height:40%;
+}
+
+#Content{
+  text-align: center;
+  padding: 10px;
+}
+
+#contentHolder{
+  margin: 0 auto;
+  padding: 5px;
+  text-align: right;
+  width: 80%;
+}
+
+#buttonPlaces{
+  padding: 10px;
+  text-align: center;
+}
+
+.calcButton{
+  margin: 0 auto 5px;
+  width: 23%;
+  height: 40px;
+}
